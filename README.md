@@ -20,7 +20,7 @@ _and how about this_
 
 *tournament.sql*
 
-wiss-Style Tournament Database
+#Swiss-Style Tournament Database
 
 What is it?
 -----------
