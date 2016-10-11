@@ -5,20 +5,6 @@ Let's see if I can commit changes.
 *How will this text appear*
 _and how about this_
 **and what about this?**
-```psql -f type```
-
-
-1. VirtualBox: https://www.virtualbox.org/wiki/Downloads
-2. Vagrant: https://www.vagrantup.com/downloads.html
-3. GitHub repository from Udacity: https://github.com/udacity/fullstack-nanodegree-vm
-
-[VirtualBox] (https://www.virtualbox.org/wiki/Downloads)
-
-1. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-2. [Vagrant](https://www.vagrantup.com/downloads.html)
-3. [GitHub repository from Udacity](https://github.com/udacity/fullstack-nanodegree-vm)
-
-*tournament.sql*
 
 #Swiss-Style Tournament Database
 
@@ -60,8 +46,8 @@ Database setup and testing
 
 From within the VM, `cd` into `/vagrant/tournament` from the fullstack repository. To
 import the database, do the following: from the tournament directory,
-type `psql -f tournament.sql` (or if in psql, type `\i tournament.sql`).
-**Note:**importing the database will delete any previously existing database named
+type `psql -f tournament.sql` . If in psql, type `\i tournament.sql` .
+**Note:** importing the database will delete any previously existing database named
 'tournament'.
 
 Test database: from the tournament directory, type `python tournament_test.py`.
