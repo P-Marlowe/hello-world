@@ -17,3 +17,5 @@ _and how about this_
 1. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 2. [Vagrant](https://www.vagrantup.com/downloads.html)
 3. [GitHub repository from Udacity](https://github.com/udacity/fullstack-nanodegree-vm)
+
+*tournament.sql*
