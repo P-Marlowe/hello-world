@@ -46,7 +46,7 @@ Database setup and testing
 
 From within the VM, `cd` into `/vagrant/tournament` from the fullstack repository. To
 import the database, do the following: from the tournament directory,
-type `psql -f tournament.sql` . If in psql, type `\i tournament.sql` .
+type `psql -f tournament.sql`. If in psql, type `\i tournament.sql`.
 **Note:** importing the database will delete any previously existing database named
 'tournament'.
 
